@@ -114,7 +114,7 @@ function renderLoginScreen() {
     <main class="app-shell login-shell">
       <section class="login-card">
         <div class="login-art">
-          <img src="public/assets/locks/lock-01-code-1-four-blanks.png" alt="Folder 67 lock screen" />
+          <img src="public/assets/locks/lock-01-code-1-four-blanks.jpg" alt="Folder 67 lock screen" />
         </div>
         <form class="login-form" autocomplete="on">
           <p class="eyebrow">Mynderse Regents Escape</p>
@@ -146,7 +146,7 @@ function renderStartScreen() {
     <main class="app-shell start-shell">
       <section class="start-hero">
         <div class="start-story-image">
-          <img src="public/assets/story/story-01-empty-classroom-folder-67.png" alt="Students discover Folder 67" />
+          <img src="public/assets/story/story-01-empty-classroom-folder-67.jpg" alt="Students discover Folder 67" />
         </div>
         <div class="hero-copy">
           <p class="eyebrow">Mynderse Regents Escape</p>
@@ -497,7 +497,7 @@ function renderMemoriesScreen() {
 
       <section class="memories-hero">
         <div class="final-story-banner">
-          <img src="public/assets/story/story-08-june-5-memory-reveal.png" alt="June 5 memory reveal artwork" />
+          <img src="public/assets/story/story-08-june-5-memory-reveal.jpg" alt="June 5 memory reveal artwork" />
         </div>
         <div>
           <p class="eyebrow">Escape complete</p>
