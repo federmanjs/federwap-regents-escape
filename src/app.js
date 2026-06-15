@@ -1,6 +1,6 @@
 import { MEMORIES } from "./data/memories.js";
 import { getQuestionById, QUESTION_BANK, QUESTION_TOPICS } from "./data/questions.js";
-import { STAGES, TEACHER_CONFIG } from "./data/stages.js";
+import { STAGES, TEACHER_CONFIG } from "./data/stages.js?v=20260615b";
 import { AUTH_STORAGE_KEY, findUser, normalizeUsername } from "./data/users.js";
 
 const app = document.querySelector("#app");
